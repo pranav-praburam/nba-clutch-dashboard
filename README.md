@@ -43,11 +43,4 @@ pip install -r requirements.txt
 
 ---
 
-Let me know if you'd like to:
-
-- Add screenshots
-- Include a live demo link
-- Credit any data sources or libraries
-- Add instructions for deployment (e.g., on Render or Heroku)
-
 I hope you enjoy!
